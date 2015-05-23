@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -38,10 +38,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="111.77113"
+     inkscape:cx="-158.22887"
      inkscape:cy="284.30071"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3873-3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -219,16 +219,16 @@
            y="236.6479" />
         <text
            xml:space="preserve"
-           style="font-size:83.22527313px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Verdana;-inkscape-font-specification:Verdana"
-           x="243.46915"
+           style="font-size:83.22527313px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+           x="251.46915"
            y="373.53967"
            id="text2987-7"
            sodipodi:linespacing="125%"><tspan
              sodipodi:role="line"
              id="tspan2989-8"
-             x="243.46915"
+             x="251.46915"
              y="373.53967"
-             style="font-size:149.80549622px">A</tspan></text>
+             style="font-size:149.80549622000000909px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold Italic">λ</tspan></text>
         <path
            style="fill:none;stroke:#000000;stroke-width:14.27799988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            d="m 372.99557,267.20904 205.06096,0"
